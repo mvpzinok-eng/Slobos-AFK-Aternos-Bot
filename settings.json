@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MWP_TeAm.aternos.me",
+    "ip": "tigerperch.aternos.host",
     "port": 53777,
     "version": "",
     "try-creative": false
