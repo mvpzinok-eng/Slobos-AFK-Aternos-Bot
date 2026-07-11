@@ -1,15 +1,15 @@
 {
-  "name": "AFK Bot",
+  "name": "AFK",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "AFK",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "MWP_TeAm.aternos.me",
-    "port": 53777,
+    "ip": "Vijibaniya.aternos.me",
+    "port": 38147,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
