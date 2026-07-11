@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "tigerperch.aternos.host",
+    "ip": "tigerperch.aternos.host:53777",
     "port": 53777,
     "version": "",
     "try-creative": false
